@@ -1,0 +1,12 @@
+/*
+  Icon Font: <%= font_name %>
+*/
+
+<%= font_face %>
+
+
+<%= glyph_selectors %> {
+<%= glyph_properties %>
+}
+
+<%= glyphs %>
